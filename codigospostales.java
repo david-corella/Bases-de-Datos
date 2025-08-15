@@ -50,3 +50,25 @@ public class codigospostales {
         }
     }
 }
+
+
+/*Resumen del Desarrollo del Procesador de Códigos Postales
+
+El desarrollo de este programa tomó aproximadamente 4 horas de trabajo.
+Implementé una solución eficiente usando HashMap para contar asentamientos por código postal,
+leyendo los datos directamente desde un archivo CSV con BufferedReader.
+Opté por un enfoque minimalista que priorizó la funcionalidad básica sobre características avanzadas.
+
+Los principales componentes incluyeron:
+
+-Un sistema simple de lectura de archivos CSV
+-Conteo preciso mediante getOrDefault()
+-Salida formateada para mejor legibilidad
+
+Aunque el código cumple con su objetivo principal, hay oportunidades para mejorarlo,
+como añadir validación de datos o manejar formatos CSV más complejos.
+Este proyecto demostró cómo soluciones sencillas pueden ser efectivas para problemas específicos,
+aunque siempre queda margen para ampliar funcionalidades según las necesidades futuras.
+
+El balance entre simplicidad y completitud resultó clave, dejando claro que incluso en proyectos pequeños
+ las decisiones de diseño impactan significativamente en la utilidad del resultado final./* */
